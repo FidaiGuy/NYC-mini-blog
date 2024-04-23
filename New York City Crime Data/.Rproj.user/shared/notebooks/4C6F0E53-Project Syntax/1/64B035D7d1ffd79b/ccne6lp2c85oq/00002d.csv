@@ -1,0 +1,5 @@
+"0","leaflet(NYPD_shooting_data) %>%"
+"0","  addTiles() %>%"
+"0","  addMarkers(~NYPD_shooting_data$Longitude, ~NYPD_shooting_data$Latitude) %>%"
+"0","  setView(-74.00, 40.71, zoom = 11)"
+"2","Warning: Data contains 16 rows with either missing or invalid lat/lon values and will be ignored"
