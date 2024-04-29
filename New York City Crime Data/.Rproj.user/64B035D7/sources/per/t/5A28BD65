@@ -3,7 +3,7 @@
     "path": "~/GitHub/NYC-mini-blog/New York City Crime Data/Project Syntax.Rmd",
     "project_path": "Project Syntax.Rmd",
     "type": "r_markdown",
-    "hash": "605882474",
+    "hash": "2191516630",
     "contents": "",
     "dirty": false,
     "created": 1713813451034.0,
@@ -13,16 +13,16 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "92,0",
-        "scrollLine": "91",
-        "last_setup_crc32": "d0aac8a42534f818"
+        "cursorPosition": "78,50",
+        "scrollLine": "68",
+        "last_setup_crc32": "1f7217a6b5ff5eb4"
     },
     "folds": "",
-    "lastKnownWriteTime": 1714054683,
+    "lastKnownWriteTime": 1714406790,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1714054683623,
+    "last_content_update": 1714406791566,
     "read_only": false,
     "read_only_alternatives": []
 }
